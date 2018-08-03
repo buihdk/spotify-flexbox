@@ -49,6 +49,10 @@ nav ul {
 nav li {
   font-weight: bold;
 }
+header .container {
+  flex-direction: column;
+  justify-content: center;
+}
 .hero-img {
   height: inherit;
   margin: 0 auto;
@@ -75,10 +79,7 @@ nav li {
   margin: .5em 0 1em;
   line-height: 1.1;
 }
-header .container {
-  flex-direction: column;
-  justify-content: center;
-}
+
 .btn-spotify {
   width: 260px;
   margin: 0 auto;
