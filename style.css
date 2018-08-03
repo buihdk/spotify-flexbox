@@ -65,7 +65,15 @@ nav li {
   font-weight: 900;
   letter-spacing: -.04em;
   line-height: 1.15;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+}
+#subtitle {
+  width: inherit;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  margin: .5em 0 1em;
+  line-height: 1.1;
 }
 header .container {
   flex-direction: column;
