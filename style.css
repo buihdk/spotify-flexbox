@@ -102,7 +102,7 @@ header .container {
   transition-duration: .5s;
 }
 footer .container{
-  padding: 60px 0;
+  padding: 60px 15px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -119,10 +119,10 @@ footer .container{
 .social-icons {
   margin-top: 40px;
   margin-left: auto;
-  margin-right: 10px;
+  margin-right: 20px;
   width: 180px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .social-icons .icon {
   color: white;
